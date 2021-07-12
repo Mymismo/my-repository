@@ -1,3 +1,3 @@
 # hello-world
 Ni idea que hago.
-Sigo tratando de entender
+Sigo tratando de entender esto.
